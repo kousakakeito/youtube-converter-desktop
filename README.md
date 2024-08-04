@@ -1,1 +1,1 @@
-//youtube-converter用のデスクトップコマンド実行
+//youtube-converter用のバッチ
